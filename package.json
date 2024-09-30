@@ -1,0 +1,22 @@
+﻿{
+  "name": "com.alchemybow.railway",
+  "version": "0.1.0",
+  "displayName": "AlchemyBow.Railway",
+  "description": "Railway Oriented Programming for Unity: Includes seamless UniTask support.",
+  "unity": "2018.3",
+  "documentationUrl": "https://github.com/kempnymaciej/alchemy-core/blob/master/README.md",
+  "changelogUrl": "https://github.com/kempnymaciej/alchemy-core/blob/master/CHANGELOG.md",
+  "licensesUrl": "https://github.com/kempnymaciej/alchemy-core/blob/master/LICENSE.md",
+  "keywords": [
+    "functional programming",
+    "railway oriented programming",
+    "result",
+    "results",
+    "result type",
+    "result pattern"
+  ],
+  "author": {
+    "name": "Maciej Kempny",
+    "url": "https://github.com/kempnymaciej"
+  }
+}
