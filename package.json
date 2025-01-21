@@ -1,6 +1,6 @@
 {
   "name": "com.alchemybow.railway",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "AlchemyBow.Railway",
   "description": "Railway Oriented Programming for Unity: Includes seamless UniTask support.",
   "unity": "2018.3",

@@ -15,7 +15,7 @@ _Note: Make sure you have UniTask added to your project._
 #### Unity Package Manager
 1. In Unity, go to **Window > Package Manager**.
 2. Click the + button and select `Add package from git URL...`.
-3. Enter the repository URL: https://github.com/kempnymaciej/alchemy-railway.git#v0.1.0. (Replace `v0.1.0` with the desired version. Latest version: `v0.1.0`.)
+3. Enter the repository URL: https://github.com/kempnymaciej/alchemy-railway.git#v0.1.1. (Replace `v0.1.1` with the desired version. Latest version: `v0.1.1`.)
 
 #### Manual Installation
 Alternatively, you can clone the repository directly to your project's `Assets` folder.
